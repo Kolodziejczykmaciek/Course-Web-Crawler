@@ -16,4 +16,4 @@ with open("subdomains-wodlist.txt", "r") as wordlist_file:
         if response:
             print("[+] Discoverd subdomain --> " + test_url )
 
-            //testujemyyy gita
+            #######gicik
